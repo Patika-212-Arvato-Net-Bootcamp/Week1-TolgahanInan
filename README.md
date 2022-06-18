@@ -6,7 +6,7 @@ Implementation of OrderCLI Homework Of Arvato .NET Bootcamp
 
 ```
 
-git clone https://github.com/Patika-212-Arvato-Net-Bootcamp/OrderCLI.git
+https://github.com/Patika-212-Arvato-Net-Bootcamp/Week1-TolgahanInan.git
 
 ```
 
